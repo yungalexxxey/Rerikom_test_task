@@ -6,7 +6,7 @@ git clone https://github.com/yungalexxxey/Rerikom_test_task.git
 ```
 Затем:
 ```
-docker-compose up -d
+sudo docker-compose up -d
 ```
 Для подключения к базе данных (для проверки того, что всё работает):
 ```
